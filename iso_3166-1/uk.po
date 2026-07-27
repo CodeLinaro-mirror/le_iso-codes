@@ -7,6 +7,7 @@
 # SPDX-FileCopyrightText: 2010 Maxim V. Dziumanenko <dziumanenko@gmail.com>
 # SPDX-FileCopyrightText: 2010-2013, 2015, 2019, 2020, 2021, 2022, 2023 Yuri Chornoivan <yurchor@ukr.net>
 # Serhii Horichenko <serhii@horichenko.com>, 2026.
+# Yuri Chornoivan <yurchor@ukr.net>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
@@ -14,7 +15,7 @@ msgstr ""
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2026-07-28 00:01+0000\n"
-"Last-Translator: Serhii Horichenko <serhii@horichenko.com>\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/iso-"
 "3166-1/uk/>\n"
 "Language: uk\n"
@@ -1659,7 +1660,7 @@ msgstr "Віргінські острови (США)"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr "Віргінські острови Сполучених Штатів"
+msgstr "Американські Віргінські Острови"
 
 #. Name for VNM
 msgid "Viet Nam"
