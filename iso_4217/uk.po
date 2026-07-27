@@ -6,6 +6,7 @@
 # SPDX-FileCopyrightText: 2010 Maxim V. Dziumanenko <dziumanenko@gmail.com>
 # SPDX-FileCopyrightText: 2010, 2015, 2017, 2020, 2022, 2025 Yuri Chornoivan <yurchor@ukr.net>
 # Serhii Horichenko <serhii@horichenko.com>, 2026.
+# Yuri Chornoivan <yurchor@ukr.net>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
@@ -13,7 +14,7 @@ msgstr ""
 "issues\n"
 "POT-Creation-Date: 2026-01-01 21:08+0100\n"
 "PO-Revision-Date: 2026-07-28 00:01+0000\n"
-"Last-Translator: Serhii Horichenko <serhii@horichenko.com>\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/iso-"
 "4217/uk/>\n"
 "Language: uk\n"
@@ -143,7 +144,7 @@ msgstr "Франк WIR"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr "Умовно розрахункова одиниця (Юнідадес де фоменто, Чилі)"
+msgstr "Умовна розрахункова одиниця (Юнідадес де фоменто, Чилі)"
 
 #. Name for CLP
 msgid "Chilean Peso"
