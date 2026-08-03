@@ -4,14 +4,15 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # .
 # SPDX-FileCopyrightText: 2023 កុសិនារា <kursinarapok@gmail.com>
+# SeyhaLite <sok123230@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2026-01-01 21:08+0100\n"
-"PO-Revision-Date: 2023-12-28 20:07+0000\n"
-"Last-Translator: កុសិនារា <kursinarapok@gmail.com>\n"
+"PO-Revision-Date: 2026-08-03 14:10+0000\n"
+"Last-Translator: SeyhaLite <sok123230@gmail.com>\n"
 "Language-Team: Khmer (Central) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-4217/km/>\n"
 "Language: km\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -638,10 +639,8 @@ msgid "Tala"
 msgstr ""
 
 #. Name for XAD
-#, fuzzy
-#| msgid "Jordanian Dinar"
 msgid "Arab Accounting Dinar"
-msgstr "ឌីណា ហ្ស៊កដានី"
+msgstr "ឌីណា គណនេយ្យ អារ៉ាប់"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
@@ -649,11 +648,11 @@ msgstr "ហ្វ្រង់ស៍ សហគមន៍អាហ្វ្រិ�
 
 #. Name for XAG
 msgid "Silver"
-msgstr ""
+msgstr "ប្រាក់"
 
 #. Name for XAU
 msgid "Gold"
-msgstr ""
+msgstr "មាស"
 
 #. Name for XBA
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
